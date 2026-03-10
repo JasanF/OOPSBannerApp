@@ -1,4 +1,4 @@
-public class OOPSBannerAppUC5 {
+public class OOPSBannerApp {
 
     public static void main(String[] args) {
 
