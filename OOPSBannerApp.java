@@ -1,4 +1,4 @@
-public class OOPSBannerAppUC6 {
+public class OOPSBannerApp {
 
     // Static method for letter O
     static String[] getOPattern() {
